@@ -10,7 +10,6 @@ runs/
 output/
 
 # IDE / Editor
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -48,3 +47,7 @@ MAINTAINER_DECISIONS.local.md
 
 # Local deploy config
 dashboard/public/vercel.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
